@@ -1,0 +1,2 @@
+# MinElementChallengeArrays
+MinElementChallenge-Arrays
